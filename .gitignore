@@ -1,3 +1,6 @@
+pocketbase
+.pnpm-store
+
 # Logs
 logs
 *.log
